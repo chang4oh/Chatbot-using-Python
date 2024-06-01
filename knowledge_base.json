@@ -19,6 +19,18 @@
     {
       "question": "What is a chatbot?",
       "answer": "A chatbot is a software application designed to simulate human conversation."
+    },
+    {
+      "question": "Hey there!",
+      "answer": "how are you?"
+    },
+    {
+      "question": "good",
+      "answer": "me too! Hows your progress in coding?"
+    },
+    {
+      "question": "it's getting better, thanks for asking!",
+      "answer": "Your welcome buddy, I know you have spent a lot of time learning."
     }
   ]
 }
