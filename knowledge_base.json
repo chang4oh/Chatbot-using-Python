@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question": "What is your name?",
+      "answer": "I am a chatbot created to assist you."
+    },
+    {
+      "question": "How can you help me?",
+      "answer": "I can answer your questions and learn new information from you."
+    },
+    {
+      "question": "What is Python?",
+      "answer": "Python is a high-level programming language known for its readability and versatility."
+    },
+    {
+      "question": "What is machine learning?",
+      "answer": "Machine learning is a field of artificial intelligence that uses algorithms to learn from and make predictions on data."
+    },
+    {
+      "question": "What is a chatbot?",
+      "answer": "A chatbot is a software application designed to simulate human conversation."
+    }
+  ]
+}
