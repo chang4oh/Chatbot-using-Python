@@ -24,9 +24,9 @@ def chat_bot():
     knowledge_base: dict = load_knowledge_base('knowledge_base.json')
 
     while True:
-        user_input: str=input('You:')
+        user_input: str=input('You: ')
 
-        if user_input.lower() = 'quit':
+        if user_input.lower() == 'quit':
             break
         # give none back if no best match
         best_match: str | None = find_best_match(user_input, [q["quesiton"] for q in knowledge_base["questions"]])
@@ -42,5 +42,5 @@ def chat_bot():
                 save_knowledge_base('knowledge_base.json', knowledge_base)
                 print('Bot: Thank you! I learned a new response!')
 
-    if __name__ == '__main__':
-        chat_bot()
+if __name__ == '__main__':
+    chat_bot()
